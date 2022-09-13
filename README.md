@@ -31,7 +31,7 @@ Big fan of new technologies, with 5 years of experience in programming languages
 
 ## Projects
 
- ### Taxis NYC Data Analysis & Weather API
+ ### 1.Taxis NYC Data Analysis & Weather API
  
 - Construction of Data Warehouse using Ubuntu Server and AWS.
 - ETL process (transform, cleaning, upgrade and normalization).
@@ -44,7 +44,7 @@ Big fan of new technologies, with 5 years of experience in programming languages
 </a> 
  
  
-### Financial Data Analysis using Yahoo Finance API
+### 2.Financial Data Analysis using Yahoo Finance API
 
 - Extract data of S&P500 companies.
 - ETL process.
@@ -57,7 +57,7 @@ Big fan of new technologies, with 5 years of experience in programming languages
 </a> 
   
   
-### Data Normalization and ETL process for E-Commerce Data
+### 3.Data Normalization and ETL process for E-Commerce Data
 
 - ETL process for E-Commerce Data Tables.
 - Data Analytics using Python. 
