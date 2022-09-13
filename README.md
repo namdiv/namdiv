@@ -33,11 +33,42 @@ Big fan of new technologies, with 5 years of experience in programming languages
 
 ### Data Normalization and ETL process for E-Commerce Data
 
+- ETL process for E-Commerce Data Tables.
+- Data Analytics using Python. 
+
 <a href="https://github.com/namdiv/Data_Normalization" target="_blank" ref="noreferrer">
   
 <img align="center" alt='Coding' width="500" src="https://piperlab.es/wp-content/uploads/2020/06/ecommerce-big-data-768x365.png">  
   
- </a> 
+</a> 
+ 
+ 
+### Financial Data Analysis using Yahoo Finance API
+
+- Extract data of S&P500 companies.
+- ETL process.
+- Analysis using Financial ratios.
+
+<a href="https://github.com/namdiv/Financial_Analysis" target="_blank" ref="noreferrer">
+  
+<img align="center" alt='Coding' width="500" src="https://miro.medium.com/max/540/1*J_EXEmUkOcg-rgzJudUhZQ.png">  
+  
+</a> 
+  
+  
+  
+ ### Taxis NYC Data Analysis & Weather API
+ 
+- Construction of Data Warehouse using Ubuntu Server and AWS.
+- ETL process (transform, cleaning, upgrade and normalization).
+- Analysis using Metrics, KPIs and Machine Learning.
+ 
+<a href="https://github.com/namdiv/Taxis_NYC" target="_blank" ref="noreferrer">
+  
+<img align="center" alt='Coding' width="500" src="https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/03/30/5fa901c4e5b47.jpeg">  
+  
+</a> 
+  
   
   
   
