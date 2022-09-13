@@ -3,7 +3,7 @@
 <img align="right" alt='Coding' width="500" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
 
 My name is Xavier, I am from Argentina. 
-I am a Data Scientist and an Eletronics Engineer.
+I am a Data Scientist and an Electronics Engineer.
 
 Big fan of new technologies, with 5 years of experience in programming languages and experience in the world of mathematics, probability and statistics. Now, my passions are Big Data🌎 and Machine Learning 💻
 
