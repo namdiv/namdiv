@@ -17,11 +17,11 @@ Big fan of new technologies, with 5 years of experience in programming languages
 - Matlab
 
 ## Hobbies
-• Coding 💻
-• Gym💪
-• Guitar🎸
-• Chess♟
-• Videogames & E-Sports🎮
+- Coding 💻
+- Gym💪
+- Guitar🎸
+- Chess♟
+- Videogames & E-Sports🎮
 
 
 ## Contact
