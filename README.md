@@ -33,9 +33,30 @@ Big fan of new technologies, with 5 years of experience in programming languages
 
 ### Data Normalization and ETL process for E-Commerce Data
 
-<a href="https://github.com/namdiv/Data_Normalization" target="_blank" ref="noreferrer">
+<a href="myurl" target="_blank" ref="noreferrer">
 
-
+https://piperlab.es/wp-content/uploads/2020/06/ecommerce-big-data-768x365.png
+  
+ </a> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 <!--
 **namdiv/namdiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
