@@ -1,19 +1,18 @@
 ## Hi there!👋 Welcome to my Github!
 
-My name is Xavier, I am from Argentina.
-
+My name is Xavier, I am from Argentina. 
 I am a Data Scientist and an Eletronics Engineer.
 
 Big fan of new technologies, with 5 years of experience in programming languages and experience in the world of mathematics, probability and statistics. Now, my passions are Big Data🌎 and Machine Learning 💻
 
 ## Skills
-- Python (Pandas, Numpy, Seaborn, Scikit-learn, others)
+- Python (Pandas, Numpy, Seaborn, Scikit-learn, matplotlib)
 - SQL
 - Machine learning
 - Linux
 - Git
 - Docker
-- C
+- C language
 - Matlab
 
 ## Hobbies
