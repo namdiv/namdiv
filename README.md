@@ -29,6 +29,12 @@ Big fan of new technologies, with 5 years of experience in programming languages
 - LinkedIn: https://www.linkedin.com/in/xavier-vidman/
 - Email: xavividman96@gmail.com
 
+## Projects
+
+### Data Normalization and ETL process for E-Commerce Data
+
+<a href="https://github.com/namdiv/Data_Normalization" target="_blank" ref="noreferrer">
+
 
 
 <!--
