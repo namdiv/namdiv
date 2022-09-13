@@ -1,6 +1,6 @@
 ## Hi there!👋 Welcome to my Github!
 
-My name is Xavier, I am from Argentina
+My name is Xavier, I am from Argentina.
 
 I am a Data Scientist and an Eletronics Engineer.
 
