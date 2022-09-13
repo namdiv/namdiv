@@ -1,5 +1,7 @@
 ## Hi there!👋 Welcome to my Github!
 
+<img align="right" alt='Coding' width="600" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
+
 My name is Xavier, I am from Argentina. 
 I am a Data Scientist and an Eletronics Engineer.
 
