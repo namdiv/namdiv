@@ -33,9 +33,9 @@ Big fan of new technologies, with 5 years of experience in programming languages
 
 ### Data Normalization and ETL process for E-Commerce Data
 
-<a href="https://piperlab.es/wp-content/uploads/2020/06/ecommerce-big-data-768x365.png" target="_blank" ref="noreferrer">
-
-<img align="center" alt='Coding' width="500" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">  
+<a href="https://github.com/namdiv/Data_Normalization" target="_blank" ref="noreferrer">
+  
+<img align="center" alt='Coding' width="500" src="https://piperlab.es/wp-content/uploads/2020/06/ecommerce-big-data-768x365.png">  
   
  </a> 
   
