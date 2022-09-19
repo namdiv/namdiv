@@ -32,6 +32,7 @@ Big fan of new technologies, with 5 years of experience in programming languages
 ## Projects
 
  ### 1.Taxis NYC Data Analysis & Weather API
+ Video Presentación: https://www.youtube.com/watch?v=L3agORgbitQ&ab_channel=XavierVidman
  
 - Construction of Data Warehouse using Ubuntu Server and AWS.
 - ETL process (transform, cleaning, upgrade and normalization).
