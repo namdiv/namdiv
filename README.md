@@ -16,7 +16,7 @@ Big fan of new technologies, with 5 years of experience in programming languages
 - Docker
 - C language
 - Matlab & Simulink
-- PÏC microcontroller
+- PIC microcontroller
 - Arduino
 
 ## Hobbies
