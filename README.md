@@ -40,7 +40,7 @@ Big fan of new technologies, with 5 years of experience in programming languages
 - ETL process (transform, cleaning, upgrade and normalization).
 - Analysis using Metrics, KPIs and Machine Learning.
  
-<a href="https://github.com/namdiv/Taxis_NYC" target="_blank" ref="noreferrer">
+<a href="https://github.com/namdiv/Taxis_NYC_Weather_API" target="_blank" ref="noreferrer">
   
 <img align="center" alt='Coding' width="500" src="https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/03/30/5fa901c4e5b47.jpeg">  
   
